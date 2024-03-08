@@ -1,0 +1,5 @@
+﻿  ProjectGameAHuntingSnake.cpp
+D:\BaiHoc\HK4\Ctdl&gt\ProjectGameAHuntingSnake.cpp\Mylib.h(47,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\BaiHoc\HK4\Ctdl&gt\ProjectGameAHuntingSnake.cpp\Mylib.h(47,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\BaiHoc\HK4\Ctdl&gt\ProjectGameAHuntingSnake.cpp\ProjectGameAHuntingSnake.cpp(847,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ProjectGameAHuntingSnake.cpp.vcxproj -> D:\BaiHoc\HK4\Ctdl&gt\ProjectGameAHuntingSnake.cpp\x64\Debug\ProjectGameAHuntingSnake.cpp.exe
